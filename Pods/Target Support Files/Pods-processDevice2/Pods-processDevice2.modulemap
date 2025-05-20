@@ -1,0 +1,6 @@
+framework module Pods_processDevice2 {
+  umbrella header "Pods-processDevice2-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,2901 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SigmaDeviceOptions",
+        "printedName": "SigmaDeviceOptions",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "omitLocationData",
+            "printedName": "omitLocationData",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk05SigmaA7OptionsV16omitLocationDataSbvp",
+            "mangledName": "$s10DeviceRisk05SigmaA7OptionsV16omitLocationDataSbvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk05SigmaA7OptionsV16omitLocationDataSbvg",
+                "mangledName": "$s10DeviceRisk05SigmaA7OptionsV16omitLocationDataSbvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "advertisingID",
+            "printedName": "advertisingID",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk05SigmaA7OptionsV13advertisingIDSSSgvp",
+            "mangledName": "$s10DeviceRisk05SigmaA7OptionsV13advertisingIDSSSgvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk05SigmaA7OptionsV13advertisingIDSSSgvg",
+                "mangledName": "$s10DeviceRisk05SigmaA7OptionsV13advertisingIDSSSgvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "useSocureGov",
+            "printedName": "useSocureGov",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk05SigmaA7OptionsV12useSocureGovSbvp",
+            "mangledName": "$s10DeviceRisk05SigmaA7OptionsV12useSocureGovSbvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk05SigmaA7OptionsV12useSocureGovSbvg",
+                "mangledName": "$s10DeviceRisk05SigmaA7OptionsV12useSocureGovSbvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "configBaseUrl",
+            "printedName": "configBaseUrl",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk05SigmaA7OptionsV13configBaseUrlSSSgvp",
+            "mangledName": "$s10DeviceRisk05SigmaA7OptionsV13configBaseUrlSSSgvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk05SigmaA7OptionsV13configBaseUrlSSSgvg",
+                "mangledName": "$s10DeviceRisk05SigmaA7OptionsV13configBaseUrlSSSgvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "customerSessionId",
+            "printedName": "customerSessionId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk05SigmaA7OptionsV17customerSessionIdSSSgvp",
+            "mangledName": "$s10DeviceRisk05SigmaA7OptionsV17customerSessionIdSSSgvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk05SigmaA7OptionsV17customerSessionIdSSSgvg",
+                "mangledName": "$s10DeviceRisk05SigmaA7OptionsV17customerSessionIdSSSgvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(omitLocationData:advertisingID:useSocureGov:configBaseUrl:customerSessionId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SigmaDeviceOptions",
+                "printedName": "DeviceRisk.SigmaDeviceOptions",
+                "usr": "s:10DeviceRisk05SigmaA7OptionsV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10DeviceRisk05SigmaA7OptionsV16omitLocationData13advertisingID12useSocureGov13configBaseUrl17customerSessionIdACSb_SSSgSbA2Itcfc",
+            "mangledName": "$s10DeviceRisk05SigmaA7OptionsV16omitLocationData13advertisingID12useSocureGov13configBaseUrl17customerSessionIdACSb_SSSgSbA2Itcfc",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SigmaDeviceOptions",
+                "printedName": "DeviceRisk.SigmaDeviceOptions",
+                "usr": "s:10DeviceRisk05SigmaA7OptionsV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SigmaDeviceOptions",
+                "printedName": "DeviceRisk.SigmaDeviceOptions",
+                "usr": "s:10DeviceRisk05SigmaA7OptionsV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA7OptionsV2eeoiySbAC_ACtFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA7OptionsV2eeoiySbAC_ACtFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10DeviceRisk05SigmaA7OptionsV",
+        "mangledName": "$s10DeviceRisk05SigmaA7OptionsV",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SigmaDevice",
+        "printedName": "SigmaDevice",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "initializeSDK",
+            "printedName": "initializeSDK(_:options:callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "DeviceRisk.SigmaDeviceOptions?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceOptions",
+                    "printedName": "DeviceRisk.SigmaDeviceOptions",
+                    "usr": "s:10DeviceRisk05SigmaA7OptionsV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String?, DeviceRisk.SigmaDeviceError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.String?, DeviceRisk.SigmaDeviceError?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.String?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "DeviceRisk.SigmaDeviceError?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "SigmaDeviceError",
+                            "printedName": "DeviceRisk.SigmaDeviceError",
+                            "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA0C13initializeSDK_7options8callbackySS_AA0cA7OptionsVSgySSSg_AA0cA5ErrorOSgtctFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA0C13initializeSDK_7options8callbackySS_AA0cA7OptionsVSgySSSg_AA0cA5ErrorOSgtctFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "pauseDataCollection",
+            "printedName": "pauseDataCollection()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA0C19pauseDataCollectionyyYaKFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA0C19pauseDataCollectionyyYaKFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "resumeDataCollection",
+            "printedName": "resumeDataCollection()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA0C20resumeDataCollectionyyYaKFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA0C20resumeDataCollectionyyYaKFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addCustomerSessionId",
+            "printedName": "addCustomerSessionId(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA0C20addCustomerSessionIdyySSYaKFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA0C20addCustomerSessionIdyySSYaKFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "createNewSession",
+            "printedName": "createNewSession(customerSessionId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA0C16createNewSession08customerF2IdS2SSg_tYaKFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA0C16createNewSession08customerF2IdS2SSg_tYaKFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "processDevice",
+            "printedName": "processDevice(context:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SigmaDeviceContext",
+                "printedName": "DeviceRisk.SigmaDeviceContext",
+                "hasDefaultArg": true,
+                "usr": "s:10DeviceRisk05SigmaA7ContextO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA0C07processA07contextSSAA0cA7ContextO_tYaKFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA0C07processA07contextSSAA0cA7ContextO_tYaKFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getSessionToken",
+            "printedName": "getSessionToken()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA0C15getSessionTokenSSyYaKFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA0C15getSessionTokenSSyYaKFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "processDevice",
+            "printedName": "processDevice(context:callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SigmaDeviceContext",
+                "printedName": "DeviceRisk.SigmaDeviceContext",
+                "hasDefaultArg": true,
+                "usr": "s:10DeviceRisk05SigmaA7ContextO"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String?, DeviceRisk.SigmaDeviceError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.String?, DeviceRisk.SigmaDeviceError?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.String?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "DeviceRisk.SigmaDeviceError?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "SigmaDeviceError",
+                            "printedName": "DeviceRisk.SigmaDeviceError",
+                            "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA0C07processA07context8callbackyAA0cA7ContextO_ySSSg_AA0cA5ErrorOSgtctFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA0C07processA07context8callbackyAA0cA7ContextO_ySSSg_AA0cA5ErrorOSgtctFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getSessionToken",
+            "printedName": "getSessionToken(callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String?, DeviceRisk.SigmaDeviceError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.String?, DeviceRisk.SigmaDeviceError?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.String?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "DeviceRisk.SigmaDeviceError?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "SigmaDeviceError",
+                            "printedName": "DeviceRisk.SigmaDeviceError",
+                            "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA0C15getSessionToken8callbackyySSSg_AA0cA5ErrorOSgtc_tFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA0C15getSessionToken8callbackyySSSg_AA0cA5ErrorOSgtc_tFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@DeviceRisk@objc(cs)SigmaDevice",
+        "mangledName": "$s10DeviceRisk05SigmaA0C",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SigmaDeviceError",
+        "printedName": "SigmaDeviceError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "dataFetchError",
+            "printedName": "dataFetchError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceError.Type) -> DeviceRisk.SigmaDeviceError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceError",
+                    "printedName": "DeviceRisk.SigmaDeviceError",
+                    "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceError",
+                        "printedName": "DeviceRisk.SigmaDeviceError",
+                        "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA5ErrorO09dataFetchD0yA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA5ErrorO09dataFetchD0yA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "unknownError",
+            "printedName": "unknownError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceError.Type) -> DeviceRisk.SigmaDeviceError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceError",
+                    "printedName": "DeviceRisk.SigmaDeviceError",
+                    "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceError",
+                        "printedName": "DeviceRisk.SigmaDeviceError",
+                        "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA5ErrorO07unknownD0yA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA5ErrorO07unknownD0yA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "networkConnectionError",
+            "printedName": "networkConnectionError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceError.Type) -> (any Swift.Error) -> DeviceRisk.SigmaDeviceError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(any Swift.Error) -> DeviceRisk.SigmaDeviceError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceError",
+                        "printedName": "DeviceRisk.SigmaDeviceError",
+                        "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceError",
+                        "printedName": "DeviceRisk.SigmaDeviceError",
+                        "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA5ErrorO017networkConnectionD0yACs0D0_pcACmF",
+            "mangledName": "$s10DeviceRisk05SigmaA5ErrorO017networkConnectionD0yACs0D0_pcACmF",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "dataUploadError",
+            "printedName": "dataUploadError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceError.Type) -> (Swift.String?, Swift.String?) -> DeviceRisk.SigmaDeviceError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String?, Swift.String?) -> DeviceRisk.SigmaDeviceError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceError",
+                        "printedName": "DeviceRisk.SigmaDeviceError",
+                        "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(Swift.String?, Swift.String?)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "Swift.String?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ],
+                            "usr": "s:Sq"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "Swift.String?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ],
+                            "usr": "s:Sq"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceError",
+                        "printedName": "DeviceRisk.SigmaDeviceError",
+                        "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA5ErrorO010dataUploadD0yACSSSg_AEtcACmF",
+            "mangledName": "$s10DeviceRisk05SigmaA5ErrorO010dataUploadD0yACSSSg_AEtcACmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "sdkNotInitializedError",
+            "printedName": "sdkNotInitializedError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceError.Type) -> DeviceRisk.SigmaDeviceError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceError",
+                    "printedName": "DeviceRisk.SigmaDeviceError",
+                    "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceError",
+                        "printedName": "DeviceRisk.SigmaDeviceError",
+                        "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA5ErrorO017sdkNotInitializedD0yA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA5ErrorO017sdkNotInitializedD0yA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "sdkPausedError",
+            "printedName": "sdkPausedError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceError.Type) -> DeviceRisk.SigmaDeviceError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceError",
+                    "printedName": "DeviceRisk.SigmaDeviceError",
+                    "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceError",
+                        "printedName": "DeviceRisk.SigmaDeviceError",
+                        "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA5ErrorO09sdkPausedD0yA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA5ErrorO09sdkPausedD0yA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SigmaDeviceError",
+                "printedName": "DeviceRisk.SigmaDeviceError",
+                "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SigmaDeviceError",
+                "printedName": "DeviceRisk.SigmaDeviceError",
+                "usr": "s:10DeviceRisk05SigmaA5ErrorO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA5ErrorO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA5ErrorO2eeoiySbAC_ACtFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10DeviceRisk05SigmaA5ErrorO",
+        "mangledName": "$s10DeviceRisk05SigmaA5ErrorO",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SigmaDeviceContext",
+        "printedName": "SigmaDeviceContext",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "default",
+            "printedName": "default",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceContext.Type) -> DeviceRisk.SigmaDeviceContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceContext",
+                    "printedName": "DeviceRisk.SigmaDeviceContext",
+                    "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceContext",
+                        "printedName": "DeviceRisk.SigmaDeviceContext",
+                        "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA7ContextO7defaultyA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA7ContextO7defaultyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "homepage",
+            "printedName": "homepage",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceContext.Type) -> DeviceRisk.SigmaDeviceContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceContext",
+                    "printedName": "DeviceRisk.SigmaDeviceContext",
+                    "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceContext",
+                        "printedName": "DeviceRisk.SigmaDeviceContext",
+                        "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA7ContextO8homepageyA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA7ContextO8homepageyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "signup",
+            "printedName": "signup",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceContext.Type) -> DeviceRisk.SigmaDeviceContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceContext",
+                    "printedName": "DeviceRisk.SigmaDeviceContext",
+                    "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceContext",
+                        "printedName": "DeviceRisk.SigmaDeviceContext",
+                        "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA7ContextO6signupyA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA7ContextO6signupyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "login",
+            "printedName": "login",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceContext.Type) -> DeviceRisk.SigmaDeviceContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceContext",
+                    "printedName": "DeviceRisk.SigmaDeviceContext",
+                    "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceContext",
+                        "printedName": "DeviceRisk.SigmaDeviceContext",
+                        "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA7ContextO5loginyA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA7ContextO5loginyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "profile",
+            "printedName": "profile",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceContext.Type) -> DeviceRisk.SigmaDeviceContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceContext",
+                    "printedName": "DeviceRisk.SigmaDeviceContext",
+                    "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceContext",
+                        "printedName": "DeviceRisk.SigmaDeviceContext",
+                        "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA7ContextO7profileyA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA7ContextO7profileyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "password",
+            "printedName": "password",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceContext.Type) -> DeviceRisk.SigmaDeviceContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceContext",
+                    "printedName": "DeviceRisk.SigmaDeviceContext",
+                    "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceContext",
+                        "printedName": "DeviceRisk.SigmaDeviceContext",
+                        "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA7ContextO8passwordyA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA7ContextO8passwordyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "transaction",
+            "printedName": "transaction",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceContext.Type) -> DeviceRisk.SigmaDeviceContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceContext",
+                    "printedName": "DeviceRisk.SigmaDeviceContext",
+                    "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceContext",
+                        "printedName": "DeviceRisk.SigmaDeviceContext",
+                        "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA7ContextO11transactionyA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA7ContextO11transactionyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "checkout",
+            "printedName": "checkout",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceContext.Type) -> DeviceRisk.SigmaDeviceContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SigmaDeviceContext",
+                    "printedName": "DeviceRisk.SigmaDeviceContext",
+                    "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceContext",
+                        "printedName": "DeviceRisk.SigmaDeviceContext",
+                        "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA7ContextO8checkoutyA2CmF",
+            "mangledName": "$s10DeviceRisk05SigmaA7ContextO8checkoutyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "other",
+            "printedName": "other",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SigmaDeviceContext.Type) -> (Swift.String) -> DeviceRisk.SigmaDeviceContext",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String) -> DeviceRisk.SigmaDeviceContext",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceContext",
+                        "printedName": "DeviceRisk.SigmaDeviceContext",
+                        "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SigmaDeviceContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SigmaDeviceContext",
+                        "printedName": "DeviceRisk.SigmaDeviceContext",
+                        "usr": "s:10DeviceRisk05SigmaA7ContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk05SigmaA7ContextO5otheryACSScACmF",
+            "mangledName": "$s10DeviceRisk05SigmaA7ContextO5otheryACSScACmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SigmaDeviceContext",
+                "printedName": "DeviceRisk.SigmaDeviceContext",
+                "usr": "s:10DeviceRisk05SigmaA7ContextO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SigmaDeviceContext",
+                "printedName": "DeviceRisk.SigmaDeviceContext",
+                "usr": "s:10DeviceRisk05SigmaA7ContextO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk05SigmaA7ContextO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s10DeviceRisk05SigmaA7ContextO2eeoiySbAC_ACtFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10DeviceRisk05SigmaA7ContextO",
+        "mangledName": "$s10DeviceRisk05SigmaA7ContextO",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CLLocationManager",
+        "printedName": "CLLocationManager",
+        "declKind": "Class",
+        "usr": "c:objc(cs)CLLocationManager",
+        "moduleName": "CoreLocation",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "CLLocationManager",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/Producers\/BaseEventProducer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 732,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/SDKConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 98,
+      "length": 7,
+      "value": "\"4.5.2\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/SDKConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 137,
+      "length": 9,
+      "value": "\"3f21f60\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/DataModel\/Behavior\/Events.swift",
+      "kind": "Array",
+      "offset": 845,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/DataModel\/Behavior\/Events.swift",
+      "kind": "Array",
+      "offset": 920,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/DataModel\/Behavior\/Events.swift",
+      "kind": "Array",
+      "offset": 989,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/DataModel\/Behavior\/Events.swift",
+      "kind": "Array",
+      "offset": 1060,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/DataModel\/Behavior\/Events.swift",
+      "kind": "Array",
+      "offset": 1129,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/DataModel\/Behavior\/Events.swift",
+      "kind": "Array",
+      "offset": 1196,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/DataModel\/Behavior\/Events.swift",
+      "kind": "Array",
+      "offset": 1273,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/SocureStorage.swift",
+      "kind": "StringLiteral",
+      "offset": 238,
+      "length": 23,
+      "value": "\"socure-device-risk-id\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/SocureStorage.swift",
+      "kind": "StringLiteral",
+      "offset": 309,
+      "length": 31,
+      "value": "\"socure-device-risk-last-event\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/DeviceBehaviorIngestionService.swift",
+      "kind": "StringLiteral",
+      "offset": 468,
+      "length": 22,
+      "value": "\"\/api\/v1\/session-data\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/DeviceBehaviorManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 643,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/DeviceBehaviorManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5096,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Session\/SdkInitializationStateManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 766,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Session\/SdkInitializationStateManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 818,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Session\/SdkInitializationStateManager.swift",
+      "kind": "Array",
+      "offset": 893,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/Extensions\/TaskExtensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 367,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/DataModel\/Config\/BehavioralSdkConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 449,
+      "length": 6,
+      "value": "300000"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/DataModel\/Config\/BehavioralSdkConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 502,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/DataModel\/Config\/BehavioralSdkConfig.swift",
+      "kind": "FloatLiteral",
+      "offset": 539,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/DataModel\/Config\/BehavioralSdkConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 590,
+      "length": 3,
+      "value": "600"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/ApplicationTypeObserver.swift",
+      "kind": "StringLiteral",
+      "offset": 287,
+      "length": 38,
+      "value": "\"SOCURE_APPLICATION_TYPE_NOTIFICATION\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/ApplicationTypeObserver.swift",
+      "kind": "StringLiteral",
+      "offset": 375,
+      "length": 25,
+      "value": "\"SOCURE_APPLICATION_TYPE\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 210,
+      "length": 12,
+      "value": "\"com.socure\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 282,
+      "length": 12,
+      "value": "\"DeviceRisk\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/SigmaDeviceManager.swift",
+      "kind": "StringLiteral",
+      "offset": 503,
+      "length": 36,
+      "value": "\"com.socure.sigmaDeviceManagerQueue\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/SigmaDeviceManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 665,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/KeychainHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2180,
+      "length": 46,
+      "value": "\"com.socure.idplus.DeviceRisk.keychain.helper\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/Extensions\/UIApplicationExtensions.swift",
+      "kind": "StringLiteral",
+      "offset": 620,
+      "length": 30,
+      "value": "\"SigmaDeviceTouchNotification\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/Extensions\/UIApplicationExtensions.swift",
+      "kind": "StringLiteral",
+      "offset": 721,
+      "length": 33,
+      "value": "\"SigmaDeviceKeyPressNotification\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/Extensions\/UIApplicationExtensions.swift",
+      "kind": "StringLiteral",
+      "offset": 873,
+      "length": 33,
+      "value": "\"com.socure.eventForwardingQueue\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/Extensions\/UIApplicationExtensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 988,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/Producers\/KeyPressEventProducer.swift",
+      "kind": "StringLiteral",
+      "offset": 168,
+      "length": 21,
+      "value": "\"DeviceRisk.KeyPressEventProducer\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/NetworkInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 407,
+      "length": 34,
+      "value": "\"The network connection was lost.\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/PublicAPI\/SigmaDeviceOptions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1485,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/PublicAPI\/SigmaDeviceOptions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1575,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/ClientTime.swift",
+      "kind": "FloatLiteral",
+      "offset": 607,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/ClientTime.swift",
+      "kind": "StringLiteral",
+      "offset": 663,
+      "length": 28,
+      "value": "\"com.socure.ClientTimeQueue\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/SessionDataAggregator.swift",
+      "kind": "Array",
+      "offset": 726,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/SessionDataAggregator.swift",
+      "kind": "Array",
+      "offset": 785,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/SessionDataAggregator.swift",
+      "kind": "Array",
+      "offset": 838,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/SessionDataAggregator.swift",
+      "kind": "Array",
+      "offset": 893,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/SessionDataAggregator.swift",
+      "kind": "Array",
+      "offset": 946,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/SessionDataAggregator.swift",
+      "kind": "Array",
+      "offset": 997,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/SessionDataAggregator.swift",
+      "kind": "Array",
+      "offset": 1058,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Location\/LocationManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 976,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Location\/LocationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 847,
+      "length": 15,
+      "value": "\"DeviceRisk.LocationManager\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Network\/NetworkAnalyzer.swift",
+      "kind": "StringLiteral",
+      "offset": 503,
+      "length": 17,
+      "value": "\"\/api\/v1\/capture\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Session\/SessionDataHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 1051,
+      "length": 32,
+      "value": "\"https:\/\/ingestion.dv.socure.io\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Session\/SessionDataHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 1132,
+      "length": 32,
+      "value": "\"https:\/\/ingestion.dv.socure.us\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Session\/SessionDataHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 1205,
+      "length": 24,
+      "value": "\"\/api\/v1\/session-window\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Session\/SessionDataHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 1271,
+      "length": 26,
+      "value": "\"\/api\/v1\/customer-session\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Session\/SessionDataHandler.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1819,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Session\/SessionDataHandler.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4528,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Session\/SessionDataHandler.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7595,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/HttpClient.swift",
+      "kind": "IntegerLiteral",
+      "offset": 305,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/Producers\/InputChangeEventProducer.swift",
+      "kind": "StringLiteral",
+      "offset": 172,
+      "length": 24,
+      "value": "\"DeviceRisk.InputChangeEventProducer\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/Producers\/ViewportSizeEventProducer.swift",
+      "kind": "StringLiteral",
+      "offset": 173,
+      "length": 25,
+      "value": "\"DeviceRisk.ViewportSizeEventProducer\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/Producers\/LocationEventProducer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 429,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/Producers\/LocationEventProducer.swift",
+      "kind": "StringLiteral",
+      "offset": 194,
+      "length": 21,
+      "value": "\"DeviceRisk.LocationEventProducer\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/PublicAPI\/SigmaDevice.swift",
+      "kind": "StringLiteral",
+      "offset": 5491,
+      "length": 9,
+      "value": "\"Unknown\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/PublicAPI\/SigmaDevice.swift",
+      "kind": "StringLiteral",
+      "offset": 7125,
+      "length": 9,
+      "value": "\"Unknown\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/Producers\/FocusChangeEventProducer.swift",
+      "kind": "StringLiteral",
+      "offset": 172,
+      "length": 24,
+      "value": "\"DeviceRisk.FocusChangeEventProducer\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/Extensions\/CLLocationExtensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 251,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/BehavioralSessionDataCollector.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1129,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/BehavioralSessionDataCollector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1401,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/BehavioralSessionDataCollector.swift",
+      "kind": "Array",
+      "offset": 1508,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/TaskQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 1104,
+      "length": 22,
+      "value": "\"com.socure.taskQueue\""
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/TaskQueue.swift",
+      "kind": "Array",
+      "offset": 1172,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Util\/TaskQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1206,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Session\/SessionManager.swift",
+      "kind": "Array",
+      "offset": 1366,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/ec2-user\/builds\/x7AZUscgk\/0\/product\/dvc\/sdk\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Internal\/Behavior\/Producers\/TouchEventProducer.swift",
+      "kind": "StringLiteral",
+      "offset": 166,
+      "length": 18,
+      "value": "\"DeviceRisk.TouchEventProducer\""
+    }
+  ]
+}

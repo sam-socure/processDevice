@@ -1,0 +1,16 @@
+PODS:
+  - SocureDeviceRisk (4.5.2)
+
+DEPENDENCIES:
+  - SocureDeviceRisk
+
+SPEC REPOS:
+  trunk:
+    - SocureDeviceRisk
+
+SPEC CHECKSUMS:
+  SocureDeviceRisk: 6dc2c23fa2d179be8551e2de763c4f54aba897e5
+
+PODFILE CHECKSUM: 7d5c37667d3061d082798fcadadbc92468b822f8
+
+COCOAPODS: 1.16.2

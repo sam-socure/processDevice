@@ -1,0 +1,59 @@
+//
+//  SubmitView.swift
+//  processDevice2
+//
+//  Created by Samuel Huang on 5/20/25.
+//
+
+import SwiftUI
+import DeviceRisk
+
+struct SubmitView: View {
+    @State private var sessionToken: String = "Session token will appear here"
+
+    var body: some View {
+        VStack(spacing: 30) {
+            Text("Submit page")
+                .font(.title)
+                .padding(.top, 50)
+
+            Spacer()
+
+            Text(sessionToken)
+                .padding()
+                .foregroundColor(.gray)
+                .multilineTextAlignment(.center)
+
+            Spacer()
+
+            Button(action: sendCheckoutData) {
+                Text("Submit")
+                    .padding()
+                    .frame(maxWidth: .infinity)
+                    .background(Color.green)
+                    .foregroundColor(.white)
+                    .cornerRadius(10)
+                    .padding(.horizontal)
+            }
+        }
+        .background(Color.white)
+    }
+
+    func sendCheckoutData() {
+        Task {
+            do {
+                _ = try await SigmaDevice.getSessionToken()
+                let token = try await SigmaDevice.processDevice(context: .checkout)
+                UserDefaults.standard.setValue(token, forKey: "SocureDeviceRiskUUID")
+
+                DispatchQueue.main.async {
+                    self.sessionToken = "Session Token:\n\(token)"
+                }
+            } catch {
+                DispatchQueue.main.async {
+                    self.sessionToken = "Error: \(error.localizedDescription)"
+                }
+            }
+        }
+    }
+}

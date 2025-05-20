@@ -1,0 +1,78 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name DeviceRisk
+import CoreLocation
+import CoreTelephony
+@_exported import DeviceRisk
+import Foundation
+import Swift
+import SystemConfiguration
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import os.log
+import os
+public struct SigmaDeviceOptions : Swift.Sendable {
+  public let omitLocationData: Swift.Bool
+  public let advertisingID: Swift.String?
+  public let useSocureGov: Swift.Bool
+  public let configBaseUrl: Swift.String?
+  public let customerSessionId: Swift.String?
+  public init(omitLocationData: Swift.Bool = false, advertisingID: Swift.String? = nil, useSocureGov: Swift.Bool = false, configBaseUrl: Swift.String? = nil, customerSessionId: Swift.String? = nil)
+}
+extension DeviceRisk.SigmaDeviceOptions : Swift.Equatable {
+  public static func == (lhs: DeviceRisk.SigmaDeviceOptions, rhs: DeviceRisk.SigmaDeviceOptions) -> Swift.Bool
+}
+public typealias SessionToken = Swift.String
+public typealias SigmaDeviceCallback = (DeviceRisk.SessionToken?, DeviceRisk.SigmaDeviceError?) -> Swift.Void
+public typealias SessionTokenCallback = (DeviceRisk.SessionToken?, DeviceRisk.SigmaDeviceError?) -> Swift.Void
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class SigmaDevice : ObjectiveC.NSObject {
+  public class func initializeSDK(_ sdkKey: Swift.String, options: DeviceRisk.SigmaDeviceOptions? = nil, callback: @escaping DeviceRisk.SigmaDeviceCallback)
+  #if compiler(>=5.3) && $AsyncAwait
+  public class func pauseDataCollection() async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public class func resumeDataCollection() async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public class func addCustomerSessionId(_ customerSessionId: Swift.String) async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public class func createNewSession(customerSessionId: Swift.String? = nil) async throws -> DeviceRisk.SessionToken
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public class func processDevice(context: DeviceRisk.SigmaDeviceContext = .other("Unknown")) async throws -> DeviceRisk.SessionToken
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public class func getSessionToken() async throws -> DeviceRisk.SessionToken
+  #endif
+  public class func processDevice(context: DeviceRisk.SigmaDeviceContext = .other("Unknown"), callback: @escaping DeviceRisk.SessionTokenCallback)
+  public class func getSessionToken(callback: @escaping DeviceRisk.SessionTokenCallback)
+  @objc deinit
+}
+public enum SigmaDeviceError : Swift.Error {
+  case dataFetchError
+  case unknownError
+  case networkConnectionError(any Swift.Error)
+  case dataUploadError(Swift.String?, Swift.String?)
+  case sdkNotInitializedError
+  case sdkPausedError
+}
+extension DeviceRisk.SigmaDeviceError : Swift.Equatable {
+  public static func == (lhs: DeviceRisk.SigmaDeviceError, rhs: DeviceRisk.SigmaDeviceError) -> Swift.Bool
+}
+public enum SigmaDeviceContext : Swift.Sendable {
+  case `default`
+  case homepage
+  case signup
+  case login
+  case profile
+  case password
+  case transaction
+  case checkout
+  case other(Swift.String)
+}
+extension DeviceRisk.SigmaDeviceContext : Swift.Equatable {
+  public static func == (lhs: DeviceRisk.SigmaDeviceContext, rhs: DeviceRisk.SigmaDeviceContext) -> Swift.Bool
+}
