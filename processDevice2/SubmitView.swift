@@ -42,14 +42,20 @@ struct SubmitView: View {
     func sendCheckoutData() {
         Task {
             do {
-                _ = try await SigmaDevice.getSessionToken()
-                let token = try await SigmaDevice.processDevice(context: .checkout)
-                UserDefaults.standard.setValue(token, forKey: "SocureDeviceRiskUUID")
+                print("🟡 Calling getSessionToken()")
+                let sessionTokenFromGet = try await SigmaDevice.getSessionToken()
+                print("✅ getSessionToken returned: \(sessionTokenFromGet)")
 
+                print("🟠 Calling processDevice(context: .checkout)")
+                let sessionTokenFromProcess = try await SigmaDevice.processDevice(context: .checkout)
+                print("✅ processDevice returned: \(sessionTokenFromProcess)")
+
+                UserDefaults.standard.setValue(sessionTokenFromProcess, forKey: "SocureDeviceRiskUUID")
                 DispatchQueue.main.async {
-                    self.sessionToken = "Session Token:\n\(token)"
+                    self.sessionToken = "Session Token:\n\(sessionTokenFromProcess)"
                 }
             } catch {
+                print("🔴 Error in sendCheckoutData: \(error)")
                 DispatchQueue.main.async {
                     self.sessionToken = "Error: \(error.localizedDescription)"
                 }
